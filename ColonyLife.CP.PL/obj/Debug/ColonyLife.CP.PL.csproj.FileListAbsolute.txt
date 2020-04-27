@@ -1,0 +1,12 @@
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\bin\Debug\ColonyLife.CP.PL.exe.config
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\bin\Debug\ColonyLife.CP.PL.exe
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\bin\Debug\ColonyLife.CP.PL.pdb
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\bin\Debug\ColonyLife.BLL.dll
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\bin\Debug\ColonyLife.DaL.dll
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\bin\Debug\ColonyLife.BLL.pdb
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\bin\Debug\ColonyLife.DaL.pdb
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\obj\Debug\ColonyLife.CP.PL.csprojAssemblyReference.cache
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\obj\Debug\ColonyLife.CP.PL.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\obj\Debug\ColonyLife.CP.PL.csproj.CopyComplete
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\obj\Debug\ColonyLife.CP.PL.exe
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.CP.PL\obj\Debug\ColonyLife.CP.PL.pdb

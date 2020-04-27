@@ -1,0 +1,15 @@
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\bin\Debug\ColonyLife.PL.exe.config
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\bin\Debug\ColonyLife.PL.exe
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\bin\Debug\ColonyLife.PL.pdb
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\obj\Debug\ColonyLife.PL.csprojAssemblyReference.cache
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\obj\Debug\ColonyLife.PL.Form1.resources
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\obj\Debug\ColonyLife.PL.Properties.Resources.resources
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\obj\Debug\ColonyLife.PL.csproj.GenerateResource.cache
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\obj\Debug\ColonyLife.PL.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\obj\Debug\ColonyLife.PL.exe
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\obj\Debug\ColonyLife.PL.pdb
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\bin\Debug\ColonyLife.BLL.dll
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\bin\Debug\ColonyLife.DaL.dll
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\bin\Debug\ColonyLife.BLL.pdb
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\bin\Debug\ColonyLife.DaL.pdb
+D:\C#\source\repos\ColonyLife\ColonyLife.PL\obj\Debug\ColonyLife.PL.csproj.CopyComplete

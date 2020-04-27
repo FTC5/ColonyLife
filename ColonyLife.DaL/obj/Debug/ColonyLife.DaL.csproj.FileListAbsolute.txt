@@ -1,0 +1,11 @@
+D:\C#\source\repos\ColonyLife\ColonyLife.DaL\bin\Debug\ColonyLife.DaL.dll
+D:\C#\source\repos\ColonyLife\ColonyLife.DaL\bin\Debug\ColonyLife.DaL.pdb
+D:\C#\source\repos\ColonyLife\ColonyLife.DaL\obj\Debug\ColonyLife.DaL.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\ColonyLife\ColonyLife.DaL\obj\Debug\ColonyLife.DaL.dll
+D:\C#\source\repos\ColonyLife\ColonyLife.DaL\obj\Debug\ColonyLife.DaL.pdb
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.DaL\bin\Debug\ColonyLife.DaL.dll
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.DaL\bin\Debug\ColonyLife.DaL.pdb
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.DaL\obj\Debug\ColonyLife.DaL.csprojAssemblyReference.cache
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.DaL\obj\Debug\ColonyLife.DaL.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.DaL\obj\Debug\ColonyLife.DaL.dll
+D:\C#\source\repos\ColonyLife\ColonyLife\ColonyLife.DaL\obj\Debug\ColonyLife.DaL.pdb
